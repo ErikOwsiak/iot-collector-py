@@ -1,0 +1,20 @@
+<pinmap simulate="NANO v3" hrdwstr="">
+   <pins>
+      <pin hport="4" lbl="GPIO4" mode="in" coll_lbl="A0" />
+      <pin hport="7" lbl="GPIO7" mode="in" coll_lbl="A1" />
+      <pin hport="8" lbl="GPIO8" mode="in" coll_lbl="A2" />
+      <pin hport="17" lbl="GPIO17" mode="in" coll_lbl="A3" />
+      <pin hport="18" lbl="GPIO18" mode="in" coll_lbl="A4" />
+      <pin hport="22" lbl="GPIO22" mode="in" coll_lbl="A5" />
+      <pin hport="23" lbl="GPIO23" mode="in" coll_lbl="A6" />
+      <pin hport="24" lbl="GPIO24" mode="in" coll_lbl="A7" />
+      <pin hport="25" lbl="GPIO25" mode="in" coll_lbl="D2" />
+      <pin hport="9" lbl="" mode="out" coll_lbl="D3" />
+      <pin hport="10" lbl="" mode="out" coll_lbl="D4" />
+      <pin hport="" lbl="" mode="" coll_lbl="" />
+      <pin hport="" lbl="" mode="" coll_lbl="" />
+      <pin hport="" lbl="" mode="" coll_lbl="" />
+      <pin hport="" lbl="" mode="" coll_lbl="" />
+      <pin hport="" lbl="" mode="" coll_lbl="" />
+   </pins>
+</pinmap>
